@@ -137,6 +137,7 @@ Copy the `references/` subdirectory to your application's configured skill path.
 | `options-playbooks` | v2.5 | Multi-strategy playbooks | 13K |
 | `global-tax-expert` | v4.0 | Cross-border tax planning | 33K |
 | `us-trust-advisor` | v1.0 | Trust & asset protection | 14K |
+| · |  |  |  |
 
 ---
 
